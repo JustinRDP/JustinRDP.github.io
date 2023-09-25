@@ -5,3 +5,7 @@ h4 {
 p {
     border: 10px dotted blue;
 }
+h1 {
+    color:purple;
+    border: 1px solid yellow;
+}
