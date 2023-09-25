@@ -2,8 +2,11 @@ h4 {
     color:crimson;
     border: 17px dashed green;
 }
-p {
+main {
     border: 10px dotted blue;
+}
+nav {
+    border: 3px solid brown;
 }
 h1 {
     color:purple;
