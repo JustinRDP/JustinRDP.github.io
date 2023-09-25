@@ -11,7 +11,8 @@ nav {
 h1 {
     color:purple;
     border: 1px solid yellow;
+    background-color: coral;
 }
 body {
-    background color: pink;
+    background-color: pink;
 }
