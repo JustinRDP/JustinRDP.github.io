@@ -4,6 +4,7 @@ h4 {
 }
 main {
     border: 10px dotted blue;
+    background-color: pink;
 }
 nav {
     border: 3px solid brown;
@@ -14,5 +15,5 @@ h1 {
     background-color: coral;
 }
 body {
-    background-color: pink;
+    background-image: url();
 }
