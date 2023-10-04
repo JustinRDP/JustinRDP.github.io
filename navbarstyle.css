@@ -10,6 +10,6 @@ nav {
   align-self: cross-start;
 }
 
-p {
+nav p {
   background-color: light gray;
 }
