@@ -6,3 +6,7 @@ nav {
 .head {
   align-self: cross-start;
 }
+
+nav:nth-child(p) {
+  border: light gray;
+}
