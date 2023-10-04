@@ -11,5 +11,6 @@ nav {
 }
 
 nav p {
+  border-color: black;
   background-color: light gray;
 }
