@@ -1,0 +1,18 @@
+.container{
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px;
+    grid-template-rows: 150px 150px 150px 150px;
+    gap: 5px 5px;
+    grid-template-areas:
+        "one one two ."
+        "one one two three"
+        "four four six six"
+        "five . six six";
+}
+
+.one {grid-area: one; background-color: red;}
+.two {grid-area: two; background-color: blue;}
+.three {grid-area: three; background-color: violet;}
+.four {grid-area: four; background-color: green;}
+.five {grid-area: five; background-color: yellow;}
+.six {grid-area: six; background-color: orange;}
